@@ -1,0 +1,5 @@
+project:
+  human_name: Drupal Playground
+  machine_name: drupal-playground
+  profile:
+    name: demo_umami
